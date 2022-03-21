@@ -27,7 +27,10 @@ function adicionarFilme() {
     "https://lumiere-a.akamaihd.net/v1/images/encanto_ka_bpo_pay1_ee2c2e0c.jpeg?region=0,225,1080,1046&width=960",
     "https://www.ocamundongo.com.br/wp-content/uploads/2018/01/viva-titulo-representatividade-poster-camundongo.jpg",
     "https://disneyplusbrasil.com.br/wp-content/uploads/2021/11/Red-Crescer-e-uma-Fera-Novo-Poster-691x1024.jpg",
-    "https://images-na.ssl-images-amazon.com/images/I/71wfvHXxvYL.jpg"
+    "https://images-na.ssl-images-amazon.com/images/I/71wfvHXxvYL.jpg",
+    "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/10/25/soultrailerdublado.jpg",
+    "https://m.media-amazon.com/images/I/51cVytNv1ML.jpg",
+    "https://upload.wikimedia.org/wikipedia/pt/thumb/7/75/Monsters_Inc.jpg/250px-Monsters_Inc.jpg"
   ];
   for (var i = 0; i < listaFilmes.length; i++) {
     document.write("<img src=" + listaFilmes[i] + ">");

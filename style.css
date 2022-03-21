@@ -1,7 +1,9 @@
-body {
-    font-family: "Futura BK BT", monospace;
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500&display=swap");
+
+* body {
+  font-family: "Rajdhani";
     text-align: center;
-    background-image: url("https://cutewallpaper.org/21/disney-world-desktop-backgrounds/Walt-Disney-World-Desktop-Wallpaper-WDWMAGIC-Unofficial-.jpg");
+    background-image: url("https://cdn.wallpapersafari.com/59/19/qlMcW1.jpg");
     background-color: #e3f1fc;
     background-size: cover;
     background-position: center top;
